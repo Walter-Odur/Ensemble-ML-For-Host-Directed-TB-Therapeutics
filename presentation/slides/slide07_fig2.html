@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Calibri, Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header { background: #2c3e50; padding: 10pt 30pt; }
+.header h1 { color: #ffffff; font-size: 18pt; margin: 0; }
+.content { padding: 10pt 20pt; flex: 1; display: flex; flex-direction: row; align-items: flex-start; }
+.img-area { flex: 1; }
+.text-area { width: 200pt; padding-left: 12pt; }
+.text-area p { color: #333333; font-size: 11pt; line-height: 1.4; margin-bottom: 8pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Results: Dimensionality Reduction</h1></div>
+<div class="content">
+  <div class="img-area">
+    <div id="fig2" class="placeholder" style="width: 340pt; height: 240pt; background: #f0f0f0;"><p>&nbsp;</p></div>
+  </div>
+  <div class="text-area">
+    <p><b>Figure 2.</b> PCA on 2,497 HVGs revealed partial but incomplete class separation.</p>
+    <p>PC1 and PC2 captured 8.5% and 5.3% of variance, respectively. Twenty PCs accounted for approximately 30% of total variance.</p>
+    <p>t-SNE embedding of a 5,000-cell subsample confirmed distinct clusters with partial overlap, indicating that high-dimensional modelling is required to fully resolve the transcriptomic distinction.</p>
+  </div>
+</div>
+</body>
+</html>

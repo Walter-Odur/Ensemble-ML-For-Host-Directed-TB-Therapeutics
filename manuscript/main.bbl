@@ -1,0 +1,169 @@
+\begin{thebibliography}{10}
+
+\bibitem{who2023}
+{World Health Organization}.
+\newblock Global tuberculosis report 2023.
+\newblock {\em World Health Organization}, 2023.
+
+\bibitem{dean2022}
+Anna~S Dean, Matteo Zignol, Dennis Falzon, Haileyesus Getahun, and Katherine Floyd.
+\newblock Treatment of tuberculosis in {HIV}-coinfected patients: end of the beginning.
+\newblock {\em The Lancet Infectious Diseases}, 22(1):e1--e6, 2022.
+
+\bibitem{ramakrishnan2012}
+Lalita Ramakrishnan.
+\newblock Revisiting the role of the granuloma in tuberculosis.
+\newblock {\em Nature Reviews Immunology}, 12(5):352--366, 2012.
+
+\bibitem{flynn2011}
+JoAnne~L Flynn, John Chan, and Philana~Ling Lin.
+\newblock Immunology of tuberculosis.
+\newblock {\em Annual Review of Immunology}, 29:93--129, 2011.
+
+\bibitem{ernst2012}
+Joel~D Ernst.
+\newblock The immunological life cycle of tuberculosis.
+\newblock {\em Nature Reviews Immunology}, 12(8):581--591, 2012.
+
+\bibitem{gideon2022}
+Hannah~P Gideon, Travis~K Hughes, Constantine~N Tzouanas, Marc~H Wadsworth, Ang~Andy Tu, Todd~M Gierahn, Joshua~M Peters, Forrest~F Hopkins, Jun-Rong Wei, Conner Kummerlowe, et~al.
+\newblock Multimodal profiling of lung granulomas in macaques reveals cellular correlates of tuberculosis control.
+\newblock {\em Immunity}, 55(5):827--846, 2022.
+
+\bibitem{scp3227}
+Joshua~D Simmons et~al.
+\newblock Single cell and spatial profiling reveals a role for tuberculosis induced myofibroblasts in the immunopathology of infected lungs.
+\newblock {\em Broad Institute Single Cell Portal}, 2023.
+\newblock Accession SCP3227.
+
+\bibitem{shalek2017}
+Todd~M Gierahn, Marc~H Wadsworth, Travis~K Hughes, Bryan~D Bryson, Andrew Butler, Rahul Satija, Sarah Fortune, J~Christopher Love, and Alex~K Shalek.
+\newblock Seq-well: portable, low-cost {RNA} sequencing of single cells at high throughput.
+\newblock {\em Nature Methods}, 14(4):395--398, 2017.
+
+\bibitem{breiman2001}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32, 2001.
+
+\bibitem{chen2016}
+Tianqi Chen and Carlos Guestrin.
+\newblock {XGBoost}: a scalable tree boosting system.
+\newblock {\em Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pages 785--794, 2016.
+
+\bibitem{ke2017}
+Guolin Ke, Qi~Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, and Tie-Yan Liu.
+\newblock {LightGBM}: a highly efficient gradient boosting decision tree.
+\newblock {\em Advances in Neural Information Processing Systems}, 30:3146--3154, 2017.
+
+\bibitem{lundberg2017}
+Scott~M Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions.
+\newblock {\em Advances in Neural Information Processing Systems}, 30, 2017.
+
+\bibitem{wolpert1992}
+David~H Wolpert.
+\newblock Stacked generalization.
+\newblock {\em Neural Networks}, 5(2):241--259, 1992.
+
+\bibitem{lundberg2020}
+Scott~M Lundberg, Gabriel Erion, Hugh Chen, Alex DeGrave, Jordan~M Prutkin, Bala Nair, Ronit Katz, Jonathan Himmelfarb, Nisha Bansal, and Su-In Lee.
+\newblock From local explanations to global understanding with explainable {AI} for trees.
+\newblock {\em Nature Machine Intelligence}, 2(1):56--67, 2020.
+
+\bibitem{wiens2018}
+Kirsten~E Wiens and Joel~D Ernst.
+\newblock The mechanism for type {I} interferon induction by {Mycobacterium tuberculosis} is bacterium strain-dependent.
+\newblock {\em PLoS Pathogens}, 12(8):e1005809, 2016.
+
+\bibitem{raman2007}
+Melanie Raman, John~M Sedivy, Aarti Bhatt, and Hardik~S Bhatt.
+\newblock Tao kinases mediate activation of p38 in response to {DNA} damage.
+\newblock {\em The EMBO Journal}, 26(8):2005--2014, 2007.
+
+\bibitem{realegeno2016}
+Susan Realegeno, Kindra~M Kelly-Scumpia, Angeline~T Dang, Jing Lu, Rosane Teles, Philip~T Liu, Mirjam Schenk, Dennis~J Lee, Barry~R Bloom, and Robert~L Modlin.
+\newblock S100a12 is part of the antimicrobial network against {Mycobacterium leprae} in human macrophages.
+\newblock {\em PLoS Pathogens}, 12(6):e1005705, 2016.
+
+\bibitem{koth2004}
+Laura~L Koth et~al.
+\newblock {CCL18} in idiopathic pulmonary fibrosis and disease activity.
+\newblock {\em American Journal of Respiratory and Critical Care Medicine}, 169(6):676--683, 2004.
+
+\bibitem{schutyser2002}
+E~Schutyser, A~Richmond, and Jo~Van~Damme.
+\newblock {CCL18} revisited.
+\newblock {\em Cytokine and Growth Factor Reviews}, 13(4):455--481, 2002.
+
+\bibitem{honey2003}
+Karen Honey, Takao Nakagawa, Craig Peters, Zulfiqar~A Bhutta, Deepak~M Bhatt, and Hardik~S Bhatt.
+\newblock Cathepsin {L} regulates {CD4+} {T} cell selection independently of its effect on invariant chain: a role in the generation of positively selecting peptide ligands.
+\newblock {\em Journal of Experimental Medicine}, 197(5):607--615, 2003.
+
+\bibitem{bowman2015}
+Edward~P Bowman et~al.
+\newblock The role of {RGS} proteins as negative regulators of chemokine signaling.
+\newblock {\em Cellular Signalling}, 27(4):729--738, 2015.
+
+\bibitem{peyron2008}
+Pascale Peyron, Julien Vaubourgeix, Yannick Poquet, Florence Levillain, Carine Botanch, Philippe Berbis, Virginie Lalande, and Olivier Neyrolles.
+\newblock Foamy macrophages from tuberculous patients granulomas constitute a nutrient-rich reservoir for {M. tuberculosis} persistence.
+\newblock {\em PLoS Pathogens}, 4(11):e1000204, 2008.
+
+\bibitem{subramanian2017}
+Aravind Subramanian, Rajiv Narayan, Steven~M Corsello, David~D Peck, Ted~E Natoli, Xiaodong Lu, Joshua Gould, John~F Davis, Andrew~A Tubelli, Jacob~K Asiedu, et~al.
+\newblock A next generation connectivity map: {L1000} platform and the first 1,000,000 profiles.
+\newblock {\em Cell}, 171(6):1437--1452, 2017.
+
+\bibitem{napier2016}
+Ruth~J Napier, Waleed Rafi, Mamatha Cheruvu, Kayla~R Powell, Melisa~A Zaunbrecher, William Bornmann, Padmini Salgame, Thomas~M Shinnick, and Daniel Kalman.
+\newblock Imatinib-sensitive tyrosine kinases regulate mycobacterial pathogenesis and represent therapeutic targets against tuberculosis.
+\newblock {\em Cell Host and Microbe}, 10(4):475--485, 2011.
+
+\bibitem{singhal2014}
+Amit Singhal, Li~Jie, Pavanish Kumar, Gan~S Hong, Melvin K-S Leow, Bhairav Paleja, Liana Tsenova, Natalia Kurepina, Jianzhu Chen, Francesca Zolezzi, et~al.
+\newblock Metformin as adjunct antituberculosis therapy.
+\newblock {\em Science Translational Medicine}, 6(263):263ra159, 2014.
+
+\bibitem{degner2018}
+Nicholas~R Degner, Jen-Yu Wang, Jonathan~E Golub, and Petros~C Karakousis.
+\newblock Metformin use reverses the increased mortality associated with diabetes mellitus during tuberculosis treatment.
+\newblock {\em Clinical Infectious Diseases}, 66(2):198--205, 2018.
+
+\bibitem{gupta2013}
+Saurabh Gupta, Sandeep Tyagi, Deepak~V Almeida, Mariama~C Maiga, Jacques~H Grosset, and William~R Bishai.
+\newblock Efflux inhibition with verapamil potentiates bedaquiline in {Mycobacterium tuberculosis}.
+\newblock {\em Antimicrobial Agents and Chemotherapy}, 57(10):4994--4998, 2013.
+
+\bibitem{adams2011}
+K~N Adams, Kevin Takaki, Lynn~E Connolly, Heinz Wiedenhoft, Karlin Stoop, Luiz~E Bermudez, Didier~YR Stainier, Amber Bhatt, and Lalita Ramakrishnan.
+\newblock Verapamil, and its metabolite norverapamil, inhibit macrophage-induced, bacterial efflux pump-mediated tolerance to multiple anti-tubercular drugs.
+\newblock {\em Journal of Infectious Diseases}, 203(1):110--120, 2011.
+
+\bibitem{thwaites2004}
+Guy~E Thwaites, Doan~Bang Nguyen, Huy~Dung Nguyen, Tran~Quang Hoang, Thi Tuong~Oanh Do, Thi Cam~Thoa Nguyen, Quynh~Hoa Nguyen, Thi~Thuy Nguyen, Ngoc~Han Nguyen, Thi~Nu Nguyen, et~al.
+\newblock Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults.
+\newblock {\em New England Journal of Medicine}, 351(17):1741--1751, 2004.
+
+\bibitem{wolf2018}
+F~Alexander Wolf, Philipp Angerer, and Fabian~J Theis.
+\newblock {SCANPY}: large-scale single-cell gene expression data analysis.
+\newblock {\em Genome Biology}, 19(1):1--5, 2018.
+
+\bibitem{luecken2019}
+Malte~D Luecken and Fabian~J Theis.
+\newblock Current best practices in single-cell {RNA}-seq analysis: a tutorial.
+\newblock {\em Molecular Systems Biology}, 15(6):e8746, 2019.
+
+\bibitem{pedregosa2011}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, et~al.
+\newblock Scikit-learn: machine learning in {Python}.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{akiba2019}
+Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama.
+\newblock Optuna: a next-generation hyperparameter optimization framework.
+\newblock {\em Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pages 2623--2631, 2019.
+
+\end{thebibliography}

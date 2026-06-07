@@ -1,0 +1,64 @@
+# ===========================
+# Virtual Environment
+# ===========================
+.venv/
+venv/
+env/
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ===========================
+# Large Data Files
+# ===========================
+data/processed_tb_lung.h5ad
+data/final_sw_dataset_raw_counts.csv
+data/TB_single_cell_meta_UMAP.csv
+
+# ===========================
+# Trained Models (too large for GitHub)
+# ===========================
+models/*.joblib
+
+# ===========================
+# LaTeX Build Artifacts
+# ===========================
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.out
+manuscript/*.blg
+manuscript/*.synctex.gz
+manuscript/missfont.log
+
+# ===========================
+# Old/duplicate PDFs
+# ===========================
+main1.pdf
+manuscript/MSB7215_PROJECT_WALTER_ODUR_2025_HD07_26017U.pdf
+manuscript/MSB7215_PROJECT_WALTER_ODUR_2025_HD07_26017U_1.pdf
+
+# ===========================
+# Intermediate DOCX reports
+# ===========================
+results/steps1.docx
+results/step2.docx
+results/step3.docx
+
+# ===========================
+# OS / IDE / Temp
+# ===========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+~$*

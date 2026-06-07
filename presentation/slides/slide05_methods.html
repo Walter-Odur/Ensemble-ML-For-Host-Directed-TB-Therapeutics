@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Calibri, Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header { background: #2c3e50; padding: 10pt 30pt; }
+.header h1 { color: #ffffff; font-size: 18pt; margin: 0; }
+.content { padding: 15pt 25pt; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+.flow { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8pt; }
+.step { background: #f0f4f8; border: 1pt solid #bdc3c7; padding: 8pt 10pt; width: 130pt; text-align: center; }
+.step-title { color: #2c3e50; font-size: 11pt; font-weight: bold; margin-bottom: 4pt; }
+.step-desc { color: #555555; font-size: 9pt; line-height: 1.3; }
+.arrow { color: #2c3e50; font-size: 16pt; font-weight: bold; }
+.flow2 { display: flex; align-items: center; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Methodology</h1></div>
+<div class="content">
+  <div class="flow">
+    <div class="step">
+      <p class="step-title">Data Acquisition</p>
+      <p class="step-desc">Seq-Well scRNA-seq<br>SCP3227<br>n = 19,044 cells</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">Preprocessing</p>
+      <p class="step-desc">QC filtering<br>Normalization<br>2,497 HVGs</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">Feature Engineering</p>
+      <p class="step-desc">Binary labelling<br>80/20 stratified split<br>PCA, t-SNE</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">ML Classification</p>
+      <p class="step-desc">RF, XGBoost,<br>LightGBM,<br>Stacking Ensemble</p>
+    </div>
+  </div>
+  <div class="flow2">
+    <div class="step">
+      <p class="step-title">Hyperparameter Tuning</p>
+      <p class="step-desc">Bayesian optimization<br>Optuna TPE<br>50 trials, 5-fold CV</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">Interpretability</p>
+      <p class="step-desc">SHAP TreeExplainer<br>100-gene disease<br>signature</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">Drug Repurposing</p>
+      <p class="step-desc">L1000 CMap query<br>Enrichment analysis<br>Host-directed targets</p>
+    </div>
+    <p class="arrow">&#8594;</p>
+    <div class="step">
+      <p class="step-title">Validation</p>
+      <p class="step-desc">Expression heatmap<br>Functional annotation<br>Literature support</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

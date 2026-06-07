@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Calibri, Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header { background: #2c3e50; padding: 10pt 30pt; }
+.header h1 { color: #ffffff; font-size: 18pt; margin: 0; }
+.content { padding: 15pt 25pt; flex: 1; display: flex; flex-direction: column; }
+.subtitle { color: #2c3e50; font-size: 16pt; font-weight: bold; margin-bottom: 12pt; }
+.note { color: #333333; font-size: 14pt; line-height: 1.5; margin-bottom: 15pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Results: Hyperparameter Tuning</h1></div>
+<div class="content">
+  <p class="note">Bayesian optimization (Optuna, 50 trials, 5-fold CV) was applied to all four models. The tuned configurations did not improve over baseline defaults.</p>
+  <div id="tuning-table" class="placeholder" style="width: 660pt; height: 180pt; background: #f8f8f8;"><p>&nbsp;</p></div>
+  <p class="note">Default hyperparameters are already well suited to the structure of scRNA-seq data. The absence of improvement argues against overfitting in the baseline models. Baseline configurations were retained for all subsequent analyses.</p>
+</div>
+</body>
+</html>

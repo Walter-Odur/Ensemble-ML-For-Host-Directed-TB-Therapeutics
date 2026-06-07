@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Calibri, Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header { background: #2c3e50; padding: 10pt 30pt; }
+.header h1 { color: #ffffff; font-size: 18pt; margin: 0; }
+.content { padding: 20pt 30pt; flex: 1; }
+ul { list-style: none; padding: 0; margin: 0; }
+li { color: #333333; font-size: 14pt; line-height: 1.5; margin-bottom: 14pt; padding-left: 15pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Discussion</h1></div>
+<div class="content">
+  <ul>
+    <li><b>High classification accuracy:</b> LightGBM discriminated TB-affected from control cells with AUC-ROC of 0.970, outperforming the stacking ensemble and demonstrating that a single well-configured model can approach ceiling performance on scRNA-seq data.</li>
+    <li><b>Biologically coherent signature:</b> The SHAP-derived 100-gene signature recapitulates known TB immunopathology, including calgranulin-mediated defence (<i>S100A12</i>), alternative macrophage activation (<i>CCL18</i>), and granuloma fibrotic remodelling (<i>COL3A1</i>, <i>DCN</i>).</li>
+    <li><b>Robust defaults:</b> Hyperparameter tuning did not improve performance, indicating that default configurations of established ML libraries are already well suited to single-cell transcriptomic data structure.</li>
+    <li><b>Pharmacological plausibility:</b> Top drug candidates (monensin, imatinib, metformin, verapamil) have independent preclinical evidence of anti-TB activity, validating the connectivity mapping approach.</li>
+    <li><b>Limitations:</b> The classification distinguishes cells from TB-positive vs TB-negative donors rather than infected vs bystander cells. The Cancer Control reference group may carry its own transcriptomic alterations. Drug candidates require experimental validation in infection models.</li>
+  </ul>
+</div>
+</body>
+</html>

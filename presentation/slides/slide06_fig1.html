@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Calibri, Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header { background: #2c3e50; padding: 10pt 30pt; }
+.header h1 { color: #ffffff; font-size: 18pt; margin: 0; }
+.content { padding: 10pt 20pt; flex: 1; display: flex; flex-direction: row; align-items: flex-start; }
+.img-area { flex: 1; }
+.img-area img { width: 100%; }
+.text-area { width: 200pt; padding-left: 12pt; }
+.text-area p { color: #333333; font-size: 11pt; line-height: 1.4; margin-bottom: 8pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Results: Dataset Overview and Quality Control</h1></div>
+<div class="content">
+  <div class="img-area">
+    <img src="figure1_placeholder" class="placeholder" id="fig1" style="width: 340pt; height: 238pt;">
+  </div>
+  <div class="text-area">
+    <p><b>Figure 1.</b> The dataset comprises 19,044 cells from TB-positive and TB-negative lung tissue.</p>
+    <p>Class imbalance: 88.6% TB-affected (n = 16,874) vs 11.4% Control (n = 2,170). HIV-only cells (n = 588) excluded.</p>
+    <p>QC metrics (genes/cell, UMI counts, mitochondrial fraction) showed comparable distributions between conditions, confirming biological rather than technical signal.</p>
+  </div>
+</div>
+</body>
+</html>

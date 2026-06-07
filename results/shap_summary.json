@@ -1,0 +1,17 @@
+{
+  "n_signature_genes": 100,
+  "n_up": 59,
+  "n_down": 41,
+  "top_10_genes": [
+    "MTRNR2L12",
+    "TAOK1",
+    "RGS2",
+    "S100A12",
+    "COL3A1",
+    "CTSL",
+    "CCL18",
+    "HLA-DRB5",
+    "FBLN1",
+    "DCN"
+  ]
+}

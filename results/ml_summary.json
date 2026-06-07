@@ -1,0 +1,7 @@
+{
+  "best_model": "LightGBM",
+  "best_test_auc": 0.9701293736132446,
+  "best_test_f1": 0.9686525033427426,
+  "n_models": 4,
+  "cv_folds": 5
+}
